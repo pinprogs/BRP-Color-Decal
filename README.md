@@ -1,6 +1,6 @@
-# BRP 박스 데칼
+# BRP Color Decal
 
-이 프로젝트는 **Unity Built-in Render Pipeline** 환경에서 동작하는 간단한 **박스 기반 데칼 구현 예제**입니다.  
+이 프로젝트는 **Unity Built-in Render Pipeline** 환경에서 동작하는 간단한 **컬러 박스 기반 데칼 구현 예제**입니다.  
 현재 데칼은 텍스처를 사용하지 않고, **단색(Color)** 만으로 화면에 투영됩니다.
 
 <img width="800" height="476" alt="image" src="https://github.com/user-attachments/assets/0bfa22bd-b057-4b2f-8792-d6fb434ed967" />
